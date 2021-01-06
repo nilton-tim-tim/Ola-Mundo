@@ -1,2 +1,2 @@
-# Ola Mundo
- primeiro projeto
+# Olá Mundo !
+ primeiro projeto Git e Github
